@@ -1,0 +1,4 @@
+[
+   {"op": "replace", "path": "/metadata/namespace", "value": "tom-dev"},
+   {"op": "replace", "path": "/rules/0/resourceNames/0", "value": "tom-frontend"}
+]

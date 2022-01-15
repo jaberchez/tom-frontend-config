@@ -1,0 +1,5 @@
+[
+   {"op": "replace", "path": "/metadata/namespace", "value": "tom-dev"},
+   {"op": "replace", "path": "/spec/template/spec/containers/0/env/0/value", "value": "tom-frontend"},
+   {"op": "replace", "path": "/spec/template/spec/containers/0/env/1/value", "value": "tom-dev"}
+]
